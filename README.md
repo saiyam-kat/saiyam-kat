@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://dev.to/@saiyamkat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@saiyamkat" height="30" width="40" /></a>
 <a href="https://twitter.com/katiyarsaiyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="katiyarsaiyam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saiyam katiyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saiyam katiyar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saiyam-katiyar-491029248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saiyam katiyar" height="30" width="40" /></a>
 <a href="https://hashnode.com/@saiyam149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@saiyam149" height="30" width="40" /></a>
 </p>
 
