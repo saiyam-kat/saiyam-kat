@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Ganga-Eco-Warriors](https://github.com/DreamFaang78/ganga-eco-warriors)
 
-- 🌱 I’m currently learning **Game Development, Web Development, Pandas, TensorFlow, Blockchain**
+- 🌱 I’m currently learning **Game Development,Web Development**
 
 - 💬 Ask me about **HTML, CSS, MySQL, Python, C**
 
