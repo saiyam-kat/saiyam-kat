@@ -9,11 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/katiyarsaiyam" target="blank"><img src="https://img.shields.io/twitter/follow/katiyarsaiyam?logo=twitter&style=for-the-badge" alt="katiyarsaiyam" /></a> </p>
 
-- 🔭 I’m currently working on [Ganga-Eco-Warriors](https://github.com/DreamFaang78/ganga-eco-warriors)
-
 - 🌱 I’m currently learning **Game Development,Web Development**
-
-- 💬 Ask me about **HTML, CSS, MySQL, Python, C**
 
 - 📫 How to reach me **saiyam30173@gmail.com**
 
