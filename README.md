@@ -59,12 +59,6 @@ I focus on **strong fundamentals**, hands-on projects, and learning by doing.
 
 ---
 
-## 📈 GitHub Activity Graph
-
-![Saiyam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saiyam-kat&theme=tokyo-night)
-
----
-
 ## 📫 How to reach me?
 
 - 💼 LinkedIn: *(add your LinkedIn link here)*  
