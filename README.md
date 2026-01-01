@@ -1,3 +1,4 @@
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 # Hi, I'm Saiyam 👋
 
 I'm a **Computer Science (CSE) undergraduate** who enjoys building things and understanding how systems work under the hood.
@@ -61,7 +62,7 @@ I focus on **strong fundamentals**, hands-on projects, and learning by doing.
 
 ## 🧭 Contribution Breakdown
 
-![Activity Radar](https://metrics.lecoq.io/saiyam-kat?template=classic&base=header&plugin_activity=1&plugin_activity_limit=5)
+![Activity Radar](https://metrics.lecoq.io/saiyam-kat?template=dark&plugin_activity=1&plugin_activity_limit=5)
 
 ---
 
