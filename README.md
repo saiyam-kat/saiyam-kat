@@ -59,6 +59,12 @@ I focus on **strong fundamentals**, hands-on projects, and learning by doing.
 
 ---
 
+## 🧭 Contribution Breakdown
+
+![Activity Radar](https://metrics.lecoq.io/saiyam-kat?template=classic&base=header&plugin_activity=1&plugin_activity_limit=5)
+
+---
+
 ## 📫 How to reach me?
 
 - 💼 LinkedIn: *(add your LinkedIn link here)*  
