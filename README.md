@@ -1,3 +1,4 @@
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <h1 align="center"> Hi, I'm Saiyam  </h1>
 
 I'm a Computer Science (CSE) undergraduate who enjoys building practical software and understanding how systems work beneath the surface.
