@@ -1,28 +1,8 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-<h1 align="center"> Hi, I'm Saiyam  </h1>
+<h1 align="left"> 👨‍💻 Saiyam Katiyar </h1>
 
-I'm a Computer Science (CSE) undergraduate who enjoys building practical software and understanding how systems work beneath the surface.
-
-I focus on strong fundamentals, hands-on projects, and learning through real-world problem solving.
-
-
----
-
-## 👨‍💻 Who am I?
-
-- 🎓 CSE undergrad  
-- 🧠 Interested in problem-solving and system thinking  
-- 🛠️ Prefer building projects over just completing tutorials  
-- 🌱 Constantly learning, iterating, and improving
-- 🧩 Enjoys logical puzzles (Sudoku), music, and strength training
----
-
-## 🚀 What am I currently working on?
-
-- 🧩 **Java** — Data Structures & Algorithms through projects and small games  
-- 🌐 **MERN stack** — building full-stack web applications  
-- 📱 **Android development** — exploring app fundamentals  
-- 🤖 **Machine Learning** — learning core concepts and workflows  
+I'm a CSE undergrad and indie developer building my version of the digital world one step at a time. All my projects are built from the ground up — from planning and designing all the way to solving real-life problems with code.I focus on strong fundamentals and hands-on work over passive tutorials, constantly iterating and improving across full-stack web development, Android Studio, and Machine Learning fundamentals. Currently sharpening my problem-solving skills through Java and Data Structures & Algorithms. 
+Outside of code, I recharge with Sudoku, music, and strength training.
 
 ---
 
@@ -54,7 +34,7 @@ I focus on strong fundamentals, hands-on projects, and learning through real-wor
 
 ## 📫 How to reach me?
 
-- 💼 LinkedIn: *(add your LinkedIn link here)*  
+- 💼 LinkedIn: [Saiyam Katiyar](https://www.linkedin.com/in/saiyam-katiyar/)
 - 📧 Email: [saiyam30173@gmail.com](mailto:saiyam30173@gmail.com)  
 
 ---
