@@ -16,20 +16,6 @@ Outside of code, I recharge with Sudoku, music, and strength training.
 
 ![Saiyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=saiyam-kat&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiyam-kat&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=saiyam-kat&theme=tokyo-night)
-
----
-
-## 🧭 Contribution Breakdown
-
-![Activity Radar](https://metrics.lecoq.io/saiyam-kat?template=dark&plugin_activity=1&plugin_activity_limit=5)
-
 ---
 
 ## 📫 How to reach me?
